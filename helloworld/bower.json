@@ -1,0 +1,17 @@
+{
+  "name": "d3-seed",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jackvial/simple-express-static-server",
+  "authors": [
+    "Jack Vial <vialjack@mail.com>"
+  ],
+  "description": "D3 Project seed",
+  "main": "server.js",
+  "keywords": [
+    "d3",
+    "js",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true
+}
